@@ -1,0 +1,62 @@
+Line Name,ID,Departure Frequency,Train Capacity,Station Name,Station Type,Stop Name,Line ID,Arrival To Stop Left,Arrival To Stop Right,Anchor Time
+Line 1 - Piraeus-Kifissia,1,360,1000,Piraeus,initial/terminal,Piraeus L1,1,240,0,180
+Line 1 - Piraeus-Kifissia,1,360,1000,Faliro,ordinary,Faliro L1,1,180,240,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Moschato,ordinary,Moschato L1,1,120,180,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Kallithea,ordinary,Kallithea L1,1,120,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Tavros,ordinary,Tavros L1,1,120,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Petralona,ordinary,Petralona L1,1,120,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Thissio,ordinary,Thissio L1,1,120,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Monastiraki,transit,Monastiraki L1,1,120,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Omonia,transit,Omonia L1,1,120,120,60
+Line 1 - Piraeus-Kifissia,1,360,1000,Victoria,ordinary,Victoria L1,1,180,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Attiki,ordinary,Attiki L1,1,120,180,60
+Line 1 - Piraeus-Kifissia,1,360,1000,Aghios Nikolaos,ordinary,Aghios Nikolaos L1,1,60,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Kato Patissia,ordinary,Kato Patissia L1,1,120,60,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Aghios Eleftherios,ordinary,Aghios Eleftherios L1,1,120,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Ano Patissia,ordinary,Ano Patissia L1,1,120,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Perissos,ordinary,Perissos L1,1,120,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Pefkakia,ordinary,Pefkakia L1,1,60,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Nea Ionia,ordinary,Nea Ionia L1,1,180,60,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Iraklio,ordinary,Iraklio L1,1,180,180,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Irini,ordinary,Irini L1,1,120,180,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Neratziotissa,ordinary,Neratziotissa L1,1,180,120,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Maroussi,ordinary,Maroussi L1,1,180,180,30
+Line 1 - Piraeus-Kifissia,1,360,1000,KAT,ordinary,KAT L1,1,120,180,30
+Line 1 - Piraeus-Kifissia,1,360,1000,Kifissia,initial/terminal,Kifissia L1,1,0,120,180
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Elliniko ,initial/terminal,Elliniko L2,2,60,0,180
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Argyroupoli,ordinary,Argyroupoli L2,2,60,60,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Alimos,ordinary,Alimos L2,2,120,60,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Ilioupoli,ordinary,Ilioupoli L2,2,120,120,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Aghios Dimitrios,ordinary,Aghios Dimitrios L2,2,120,120,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Dafni,ordinary,Dafni L2,2,120,120,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Aghios Ioannis,ordinary,Aghios Ioannis L2,2,60,120,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Neos Kosmos,ordinary,Neos Kosmos L2,2,120,60,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Syngrou - Fix,ordinary,Syngrou - Fix L2,2,60,120,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Acropoli,ordinary,Acropoli L2,2,120,60,60
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Syntagma,transit,Syntagma L2,2,60,120,120
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Panepistimio,ordinary,Panepistimio L2,2,120,60,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Omonia,transit,Omonia L2,2,120,120,60
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Metaxourghio,ordinary,Metaxourghio L2,2,120,120,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Larissa Station,ordinary,Larissa Station L2,2,60,120,60
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Attiki,ordinary,Attiki L2,2,60,60,60
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Sepolia,ordinary,Sepolia L2,2,60,60,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Aghios Antonios,ordinary,Aghios Antonios L2,2,120,60,30
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Peristeri,ordinary,Peristeri L2,2,120,120,60
+Line 2 - Elliniko-Anthoupoli,2,300,1030,Anthoupoli,initial/terminal,Anthoupoli L2,2,0,120,120
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Doukissis Plakentias,initial/terminal,Doukissis Plakentias L3,3,30,0,120
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Halandri,ordinary,Halandri L3,3,60,30,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Aghia Paraskevi,ordinary,Aghia Paraskevi L3,3,120,60,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Nomismatokopio,ordinary,Nomismatokopio L3,3,60,120,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Holargos,ordinary,Holargos L3,3,120,60,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Ethniki Amyna,ordinary,Ethniki Amyna L3,3,120,120,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Katehaki,ordinary,Katehaki L3,3,120,120,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Panormou,ordinary,Panormou L3,3,180,120,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Ambelokipi,ordinary,Ambelokipi L3,3,120,180,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Megaro Moussikis,ordinary,Megaro Moussikis L3,3,60,120,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Evangelismos,ordinary,Evangelismos L3,3,120,60,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Syntagma,transit,Syntagma L3,3,120,120,120
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Monastiraki,transit,Monastiraki L3,3,120,120,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Kerameikos,ordinary,Kerameikos L3,3,120,120,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Eleonas,ordinary,Eleonas L3,3,120,120,30
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Egaleo,ordinary,Egaleo L3,3,120,120,60
+Line 3 - Doukissis Plakentias-Aghia Marina,3,300,1030,Aghia Marina,initial/terminal,Aghia Marina L3,3,0,120,120
